@@ -15,8 +15,5 @@ I'm a passionate and experienced **Web Developer** with a focus on building effi
 - **Tools & Platforms:**  
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)    ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)    ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)    ![MongoDB](https://img.shields.io/badge/MongoDB-%23336791.svg?style=flat&logo=mongodb&logoColor=white)    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
 
-### 🌱 Currently Exploring  
-I'm expanding my knowledge in **TypeScript**, **GraphQL**, and **cloud infrastructure** to further enhance my development toolkit.
-
 ### 📫 Get in Touch  
 - Email: [eufelipemorenobr@gmail.com](mailto:eufelipemorenobr@gmail.com)
